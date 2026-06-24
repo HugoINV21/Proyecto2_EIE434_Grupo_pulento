@@ -1,4 +1,4 @@
-# Proyecto N°2 – Simulación de Auto-Home de un Brazo Robótico
+# Proyecto N°2 – Simulación de Auto-Home de un Brazo Robótico  
 
 **Integrantes:** Sebastian Palacios, Javiera Vega, Hugo Nuñez, Jordan Porras.
 
