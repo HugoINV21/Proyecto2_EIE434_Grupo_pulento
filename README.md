@@ -100,29 +100,3 @@ Eslabon 3 terminado
 Eslabon 4 terminado
 Todos los eslabones realizaron auto-home correctamente.
 ```
-
----
-
-## Integrantes
-
-- [Nombre del integrante 1]
-- [Nombre del integrante 2]
-- [Nombre del integrante 3]
-- [Nombre del integrante 4]
-
----
-
-## Contexto académico
-
-- **Asignatura:** Programación 2 (EIE 434)
-- **Unidad:** Programación estructurada en C
-- **Semestre:** 1er Semestre 2026
-- **Docente:** Guillermo Cid Ampuero
-- **Carreras:** Ing. Electrónica, Ing. Civil Electrónica, Telecomunicaciones
-
----
-
-## Estado del proyecto
-
-El programa está terminado y cumple con todos los requisitos de la tarea. Compila sin errores y se ejecuta una sola vez generando valores aleatorios distintos en cada ejecución.
-```
